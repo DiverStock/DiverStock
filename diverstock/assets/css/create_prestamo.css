@@ -1,0 +1,86 @@
+.container{
+	background: rgba(100,0,0,0.0);
+	width: 700px;
+	height: 170px;
+	margin: 25px auto ;
+	/*margin:100px auto 100px auto;*/
+	position: relative;
+	border-width: 1px;
+  border-style: dotted;
+}
+.container h3{
+	width: 100%;
+	border-radius: 15px;
+	padding: 7px;
+	text-align: center;
+    position: relative;
+    z-index: 2;
+    background: rgba(128, 64, 0, 0.3);
+	color: #E84F0C;
+	margin-top: 0;
+	margin-right:  0;
+}
+.container .labell{
+	width: 100%;
+}
+.labell #text{
+	width: 118px;
+    float: left;
+    margin-left: 15px;  
+}
+
+.container .campos{
+	width: 100%;
+}
+.campos #cam_apre{
+	width: 118px;
+    float: left;
+    margin-left: 15px;
+    border-radius: 7px;
+    padding: 10px;
+}
+.campos #consultar{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+#search{
+	width: 118px;
+    float: left;
+    margin-left: 15px;
+    border-radius: 7px;
+}
+
+.containertwo{
+	background: rgba(100,0,0,0.0);
+	width: 700px;
+	height: 400px;
+	margin: 25px auto ;
+	/*margin:100px auto 100px auto;*/
+	position: relative;
+	border-width: 1px;
+    border-style: dotted;
+}
+ #tddd{
+	text-align: center;
+}
+ #tdd{
+	text-align: center;
+	color: #fff;
+	background-color: #CC3800;
+}
+#campos{
+	width: 50%;
+	margin-left: 43px;
+	text-align: center;
+}
+#campooss{
+	width: 120px;
+	margin-left: 10px;
+	margin-right: : 20px;
+	text-align: center;
+}
+#registrarboton{
+	margin-left: 610px;
+	
+}
